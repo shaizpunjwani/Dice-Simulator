@@ -10,4 +10,4 @@ class Dice_Sim():
 3) Player(): this class calls up the class of dice_sim and takes the input from the user that whether he wanna switch or not if yes then it calls customized dice else runs the traditional dice. It also takes the decision from user that wanna continue or not.
 
 #-------Modules-----------
-all the work is been done using Random module
+1) all the work is been done using Random module
